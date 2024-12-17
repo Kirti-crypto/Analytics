@@ -23,10 +23,10 @@ The owner of **Madhav Store** wanted a dashboard to analyze and track **online s
 ## 📂 Files in Repository  
 - `MadhavStore_Sales.xlsx`: Source dataset.  
 - `MadhavStore.pbix`: Power BI project file.  
-- `Screenshots/`:![alt text](image.jpg)  
+- `Screenshots/`:![alt text](Madhave_ecom_dashboard.PNG)  
 
 ## 🔗 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Kirti-crypto/MadhavStore-Sales-Dashboard.git
+   git clone https://kirti-crypto.github.io/Analytics/
 
