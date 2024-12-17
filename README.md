@@ -3,8 +3,7 @@
 ## 📝 Objective  
 The owner of **Madhav Store** wanted a dashboard to analyze and track **online sales across India**, focusing on key metrics like sales trends, regional performance, and category-wise insights.  
 
-## 🚀 Solution  
-To address this, I:  
+## 🚀 Solution    
 1. **Cleaned and transformed** the sales data for analysis.  
 2. **Modeled the data** using a star schema to establish relationships between tables.  
 3. Created an **interactive Power BI dashboard** with visuals to provide actionable insights.  
@@ -24,7 +23,7 @@ To address this, I:
 ## 📂 Files in Repository  
 - `MadhavStore_Sales.xlsx`: Source dataset.  
 - `MadhavStore.pbix`: Power BI project file.  
-- `Screenshots/`: Visuals from the dashboard.  
+- `Screenshots/`:![alt text](image.jpg)  
 
 ## 🔗 How to Use  
 1. Clone this repository:  
